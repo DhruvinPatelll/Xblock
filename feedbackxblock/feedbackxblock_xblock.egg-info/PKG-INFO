@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: feedbackxblock-xblock
+Version: 0.1
+Summary: feedbackxblock XBlock
+License: UNKNOWN
+Requires-Dist: XBlock

@@ -1,0 +1,17 @@
+setup.py
+feedbackxblock/__init__.py
+feedbackxblock/feedbackxblock.py
+feedbackxblock/utils.py
+feedbackxblock/static/README.txt
+feedbackxblock/static/css/feedbackxblock.css
+feedbackxblock/static/css/studio_view.css
+feedbackxblock/static/js/src/feedbackxblock.js
+feedbackxblock/static/js/src/studio_view.js
+feedbackxblock/templates/html/feedbackxblock.html
+feedbackxblock/templates/html/studio_view.html
+feedbackxblock_xblock.egg-info/PKG-INFO
+feedbackxblock_xblock.egg-info/SOURCES.txt
+feedbackxblock_xblock.egg-info/dependency_links.txt
+feedbackxblock_xblock.egg-info/entry_points.txt
+feedbackxblock_xblock.egg-info/requires.txt
+feedbackxblock_xblock.egg-info/top_level.txt
